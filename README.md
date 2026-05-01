@@ -9,6 +9,7 @@ Python, C, C++, Unity, Git
 - [Dungeon Crawler](projects/dungeon-crawler/) - A microservice-based text dungeon.
 - [Genetic Algorithm Tinkering](projects/genetic-algorithm-tinkering/) - A simple evolution simulator built in Unity with Python visualizations.
 - [Overwatch Win Predictor](projects/ow-win-predictor/) - A logistic-regression-based win predictor usable on Blizzard Entertainment's Overwatch.
+  
 ## Course Portfolios
 Each of these are collections of projects I completed across some of Oregon State University's computer science courses.
 - [CS 325 Portfolio](projects/cs-325-portfolio/)
