@@ -1,4 +1,4 @@
-# Kai Sherman's Portfolio
+# Kai Sherman
 Hello, I'm Kai! I'm a student at Oregon State University specializing in simulation and game programming. I enjoy game development and any side projects that pop into my head.
 
 ## Skills
