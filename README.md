@@ -5,6 +5,7 @@ Hello, I'm Kai! I'm a student at Oregon State University specializing in simulat
 Python, C, C++, Unity, Git
 
 ## Projects
+- [Escape Room Challenge (Capstone)](projects/capstone/) - My senior project at Oregon State University.
 - [C++ Snake Game](projects/snake-game/) - A Snake clone built in C++ with SFML.
 - [Dungeon Crawler](projects/dungeon-crawler/) - A microservice-based text dungeon.
 - [Genetic Algorithm Tinkering](projects/genetic-algorithm-tinkering/) - A simple evolution simulator built in Unity with Python visualizations.
