@@ -18,4 +18,4 @@ The game includes three separate escape rooms, each with three puzzles and reach
 
 <img style="max-width:100%;height:auto;" alt="state-0" src="https://github.com/user-attachments/assets/53bb50c8-519d-40ba-81a2-101931b9cef7" />
 <img style="max-width:100%;height:auto;" alt="state-1" src="https://github.com/user-attachments/assets/e81b0ae7-00d2-4fcb-8f68-7ac9dd7c92e6" />
-<img style="max-width:100%;height:auto;" alt="state-2" src="https://github.com/user-attachments/assets/d0ea3ec3-e4dd-41dc-851d-685cea9b1c3d" />
+<img style="max-width:100%;height:auto;" alt="state-2" src="https://github.com/user-attachments/assets/1b22db75-6fd1-4262-b331-d6620ef063de" />
