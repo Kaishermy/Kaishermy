@@ -1,8 +1,9 @@
-# Kai Sherman
-Hello, I'm Kai! I'm a student at Oregon State University specializing in simulation and game programming. I enjoy game development and any side projects that pop into my head.
+Hello, I'm Kai! I'm a student at Oregon State University specializing in simulation and game programming. I enjoy game development and working on random side projects that pop into my head.
 
 ## Skills
-Python, C, C++, Unity, Git
+**Proficient:** Python, C, C++, Unity/C#, Git
+
+**Familiar:** JavaScript, MySQL, HTML/CSS, x86 MASM
 
 ## Projects
 - [Escape Room Challenge (Capstone)](projects/capstone/) - My senior project at Oregon State University.
