@@ -1,9 +1,9 @@
 Hello, I'm Kai! I'm a student at Oregon State University specializing in simulation and game programming. I enjoy game development and working on random side projects that pop into my head.
 
 ## Skills
-**Proficient:** Python, C, C++, Unity/C#, Git
+**Proficient:** Python, C++, Unity/C#, Git, Flask, Godot
 
-**Familiar:** JavaScript, MySQL, HTML/CSS, x86 MASM
+**Familiar:** C, JavaScript, MySQL, HTML/CSS, x86 MASM
 
 ## Projects
 - [Escape Room Challenge (Capstone)](projects/capstone/) - My senior project at Oregon State University.
